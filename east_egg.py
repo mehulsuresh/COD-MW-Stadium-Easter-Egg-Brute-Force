@@ -51,3 +51,4 @@ if list.count("h") == 1:
 if list.count("h") == 2 and list.count("c") == 1:
     print("Nose Room")
     nose_room(numbers,nums,list)
+input("Press any key to exit")
